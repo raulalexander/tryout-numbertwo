@@ -1,2 +1,2 @@
 # tryout-numbertwo
-This is my personal one 
+Well, this is my first time... coding? 
